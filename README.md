@@ -1,5 +1,5 @@
 # The-Farmer-Was-Replaced
-Usefull scripts for the game "The Farmer Was Replaced".
+Useful scripts for the game "The Farmer Was Replaced".
 
 feel free to contribute
 
